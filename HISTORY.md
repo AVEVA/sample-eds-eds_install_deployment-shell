@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.5 / 2021-12-07
+
+- Update pipelines to reference internal analysis templates
+  
 ## 1.0.4 / 2021-07-09
 
 - Cleaned up the gitignore
