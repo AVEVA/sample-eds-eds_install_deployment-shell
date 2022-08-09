@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.6 / 2022-08-09
+
+- Remove weekly tests
+
 ## 1.0.5 / 2021-12-07
 
 - Update pipelines to reference internal analysis templates
