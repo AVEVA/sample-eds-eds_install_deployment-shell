@@ -1,6 +1,6 @@
 # Version History
 
-## ['tallation files to this folder', '\n'] / 2023-10-13
+## 1.0.7 / 2023-10-13
 
 - Migrate Pipelines
 
